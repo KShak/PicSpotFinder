@@ -12,6 +12,8 @@ Android App that allows users to quickly see the pictures posted to Instagram ta
 ### Demo Video
 https://www.youtube.com/watch?v=RvlwHWfZ8gQ
 
+http://khalidshakur.com/projects/picspotfinder_screenshot.PNG
+
 ### Installing
 1. Download the [apk]() directly to your Android device or your PC.
 2. If you downloaded the apk to your PC, transfer the apk to the "Downloads" folder of your Android deivce. I think the easiest way to do this is plug your device into your PC via cable. Enable "Transfer files" mode.
