@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.finder.spot.pic.shak.picspotfinder">
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".InstaWebViewActivity"
+            android:theme="@style/InstaWebView" />
+        <activity
+            android:name=".SplashActivity"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ImagesActivity"
+            android:theme="@style/ImagesTheme" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyCTbRThg_7gwU8jqOgctugBnF-RfUuMlf4" />
+
+        <activity
+            android:name=".FullImageActivity"
+            android:label="@string/title_activity_full_image"
+            android:launchMode="singleTask"
+            android:theme="@style/FullImageTheme"></activity>
+    </application>
+</manifest>

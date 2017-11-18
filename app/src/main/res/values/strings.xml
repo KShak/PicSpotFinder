@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PicSpotFinder</string>
+    <string name="title_activity_full_image">FullImageActivity</string>
+
+    <!--SplashActivity and InstaWebViewActivity-->
+    <string name="shared_pref">shared pref</string>
+    <string name="access_token_default">no access token</string>
+    <string name="access_token">access token</string>
+
+    <!--FullImageActivity and ImagesActivity-->
+    <string name="image_filename">imageFilename</string>
+
+    <!--FullImageActivity-->
+    <string name="image_upload_from_disk_error">Unable to display image in fullscreen.</string>
+
+    <!--ImagesActivity-->
+    <string name="progress_dialog_title">Loading Images</string>
+    <string name="progress_dialog_message">Rome was not build in a day and neither was this app!</string>
+    <string name="no_images_toast">No images to display from the location selected.</string>
+    <string name="features_disabled_message">No location permissions, features disabled.</string>
+    <string name="google_navigation_request_uri">google.navigation:q=</string>
+    <string name="google_map_package">com.google.android.apps.maps</string>
+    <string name="play_services_repairable_exception">
+        Google Play Services Repairable Exception Thrown</string>
+    <string name="play_services_not_available_exception">
+        Google Play Services Not Available Exception Thrown</string>
+    <string name="save_image_to_disk_exception">Exception throw while savinging image to disk.</string>
+</resources>
