@@ -20,6 +20,15 @@ https://www.youtube.com/watch?v=RvlwHWfZ8gQ
 [![](http://khalidshakur.com/projects/picspotfinder_screenshot.PNG)]()
 
 ### Planned Work
+1. Move away from using the [Instagram REST API](https://www.instagram.com/developer/) as I believe it has been deprecated.
+2. Display image metadata, so that users can for example navigate to the exact spot a viewed image was taken to replicate it.
+3. Give users the ability to adjust the maximum distance from the specified location, images shown can be from.
+
+### Author
+* **Khalid Shakur** - [KShak](khalidshakur.com)
 
 ### Disclaimer
-**THIS APP IS CURRENTLY UNDER DEVELOPMENT.** I have quite a bit of feature and test work planned. If you find any problems feel free to contact me.
+**THIS APP IS CURRENTLY UNDER DEVELOPMENT.** I have quite a bit of feature and test work planned. If you find any bugs or have feedback feel free to contact me.
+
+### License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
