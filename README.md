@@ -12,7 +12,8 @@ Android App that allows users to quickly see the pictures posted to Instagram ta
 ### Demo Video
 https://www.youtube.com/watch?v=RvlwHWfZ8gQ
 
-http://khalidshakur.com/projects/picspotfinder_screenshot.PNG
+[![PicSpotFinder Screenshot](http://khalidshakur.com/projects/picspotfinder_screenshot.PNG)](https://www.youtube.com/watch?v=RvlwHWfZ8gQ)
+
 
 ### Installing
 1. Download the [apk]() directly to your Android device or your PC.
