@@ -6,13 +6,13 @@
 Android App that allows users to quickly see the pictures posted to Instagram taken near a user-specified location.
 
 ### Prerequisites
-1. Device running running at least Android Lollipop, although I recommend using a device running Nougat, as I have not tested other versions of Android.
+1. Device running at least Android Lollipop, although I recommend using a device running Nougat, as I have not tested other versions of Android.
 2. May have to enable developers' options and USB debugging (https://developer.android.com/studio/debug/dev-options.html).
 
 ### Installing
 1. Download the [apk](app-debug.apk) directly to your Android device or your PC.
-2. If you downloaded the apk to your PC, transfer the apk to the "Downloads" folder of your Android deivce. I think the easiest way to do this is plug your device into your PC via cable. Enable "Transfer files" mode. Move apk as you would move a file to an external drive.
-3. Navigate to the apk on your Android device. Ideally it will be located in the "Downloads" folder. Open it, and the directions to install should be fairly straightforward.
+2. If you downloaded the apk to your PC, transfer the apk to the "Downloads" folder of your Android device. I think the easiest way to do this is to plug your device into your PC via cable. Enable "Transfer files" mode. Move apk as you would move a file to an external drive.
+3. Navigate to the apk on your Android device. Ideally it will be located in the "Downloads" folder. Open it, and you should be directed to install the app.
 
 ### Demo Video
 https://www.youtube.com/watch?v=RvlwHWfZ8gQ
