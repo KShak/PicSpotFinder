@@ -25,7 +25,7 @@ https://www.youtube.com/watch?v=RvlwHWfZ8gQ
 3. Give users the ability to adjust the maximum distance from the specified location, images shown can be from.
 
 ### Author
-* **Khalid Shakur** - [KShak](khalidshakur.com)
+* **Khalid Shakur** - http://khalidshakur.com  / https://github.com/kshak
 
 ### Disclaimer
 **THIS APP IS CURRENTLY UNDER DEVELOPMENT.** I have quite a bit of feature and test work planned. If you find any bugs or have feedback feel free to contact me.
