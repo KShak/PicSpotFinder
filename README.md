@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=RvlwHWfZ8gQ
 ### Planned Work
 1. Move away from using the [Instagram REST API](https://www.instagram.com/developer/) as I believe it has been deprecated.
 2. Display image metadata, so that users can for example navigate to the exact spot a viewed image was taken to replicate it.
-3. Give users the ability to adjust the maximum distance from the specified location iamges shown can be from.
+3. Give users the ability to adjust the maximum distance from the specified location images shown can be from.
 
 ### Author
 * **Khalid Shakur** - http://khalidshakur.com  / https://github.com/kshak
