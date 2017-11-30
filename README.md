@@ -17,7 +17,7 @@ Android App that allows users to quickly see the pictures posted to Instagram ta
 ### Demo Video
 https://www.youtube.com/watch?v=RvlwHWfZ8gQ
 
-[![PicSpotFinder Screenshot](http://khalidshakur.com/projects/picspotfinder_screenshot.PNG)](http://khalidshakur.com/projects/picspotfinder_screenshot.PNG)
+[![PicSpotFinder Screenshot](http://khalidshakur.com/projects/assets/images/picspotfinder_screenshot.PNG)](http://khalidshakur.com/projects/assets/images/picspotfinder_screenshot.PNG)
 
 ### Planned Work
 1. Move away from using the [Instagram REST API](https://www.instagram.com/developer/) as I believe it has been deprecated.
