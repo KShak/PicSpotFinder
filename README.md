@@ -3,7 +3,7 @@
 2017 was a year of being in new places for me ([my travel website](http://khalidshakur.com/traveling/) if you're curious). While touring different cities and countries, I often found it hard to decide where I wanted to go and what I wanted to see. I would search for interesting destinations and then narrow down the results by searching for images of each destination. This app is intended to streamline this process.
 
 ##### TL;DR 
-Android App that allows users to quickly see the pictures posted to Instagram taken near a user-specified location.
+Android app that allows users to quickly see the pictures posted to Instagram taken near a user-specified location.
 
 ### Prerequisites
 1. Device running at least Android Lollipop, although I recommend using a device running Nougat, as I have not tested other versions of Android.
