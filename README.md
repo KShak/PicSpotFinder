@@ -1,5 +1,8 @@
 # PicSpotFinder Android App
 
+### UPDATE
+After creating the prototype demoed in the video below, due to limitations of the Instagram API (the best source of images posted on social media with location data) I did not further develop this app.
+
 2017 was a year of being in new places for me ([my travel website](http://khalidshakur.com/traveling/) if you're curious). While touring different cities and countries, I often found it hard to decide where I wanted to go and what I wanted to see. I would search for interesting destinations and then narrow down the results by searching for images of each destination. This app is intended to streamline this process.
 
 ##### TL;DR 
